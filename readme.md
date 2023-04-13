@@ -1,23 +1,6 @@
 # Object Detection Script
 这个项目主要是提供一些关于目标检测的代码和改进思路参考.
 
-# Advertising Board
-人工智能-工作室长期对外接单，范围主要是:
-1. 目标检测.
-2. 图像分类.
-3. 图像分割.
-4. NLP领域.
-5. 图像超分辨.
-6. 图像去噪.
-7. GAN.
-8. 模型部署.
-9. 模型创新. 
-10. 目标跟踪.
-
-等等. 价格公道,三年TB老店,TB付款安全可靠.  
-有需要的可加企鹅 1069614715详聊.  
-另外也有有偿指导答疑.  
-
 # Explanation
 - **yolo**  
     yolo文件夹是针对yolov5,yolov7,yolov8的数据集处理脚本，具体可看[readme.md](https://github.com/z1069614715/objectdetection_script/blob/master/yolo/readme.md).  
