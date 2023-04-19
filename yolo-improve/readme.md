@@ -148,9 +148,35 @@
     视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Rs4y1N7fp/).   
 - **yolov5-CARAFE**  
     添加轻量级上采样算子CARAFE到yolov5中.  
-    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Rs4y1N7fp/).  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1kj411c72a/).  [yolov7修改视频-哔哩哔哩](https://www.bilibili.com/video/BV1yc411p7wL/).  
     reference: [链接](https://github.com/XiaLiPKU/CARAFE)  
-- **yolov5-EVC**
+- **yolov5-EVC**  
     添加CFPNet中的EVC-Block到yolov5中.  
-    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Rs4y1N7fp/).  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Pg4y1u7cM/).  
     reference: [链接](https://github.com/QY1994-0919/CFPNet)  
+- **yolov5-dyhead**  
+    添加基于注意力机制的目标检测头(DYHEAD)到yolov5中.  
+    yolov7版本: [哔哩哔哩](https://www.bilibili.com/video/BV1Ph4y1s7i9/).  
+    安装命令:
+
+        pip install -U openmim
+        mim install mmengine
+        mim install "mmcv>=2.0.0"
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1qs4y117Mx/).  
+    reference: [链接](https://github.com/open-mmlab/mmdetection/blob/main/mmdet/models/necks/dyhead.py)  
+    paper: [链接](https://arxiv.org/abs/2106.08322)  
+- **yolov5-backbone/inceptionnext**  
+    添加(2023年New)InceptionNeXt主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV12v4y1H7E1/).   
+    reference: [链接](https://github.com/sail-sg/inceptionnext)  
+    paper: [链接](https://arxiv.org/pdf/2303.16900.pdf)  
+- **yolov5-aLRPLoss**
+    添加aLRPLoss到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1YV4y1Z7rV/).     
+    reference: [链接](https://github.com/kemaloksuz/aLRPLoss)  
+    paper: [链接](https://arxiv.org/abs/2009.13592)  
+- **yolov5-res2block**
+    结合Res2Net提出具有多尺度提取能力的C3模块.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV13X4y167VB/).     
+    reference: [链接](https://github.com/Res2Net/Res2Net-PretrainedModels)  
+    paper: [链接](https://arxiv.org/pdf/1904.01169.pdf)  
