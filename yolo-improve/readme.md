@@ -175,8 +175,22 @@
     视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1YV4y1Z7rV/).     
     reference: [链接](https://github.com/kemaloksuz/aLRPLoss)  
     paper: [链接](https://arxiv.org/abs/2009.13592)  
-- **yolov5-res2block**
+- **yolov5-res2block**  
     结合Res2Net提出具有多尺度提取能力的C3模块.  
     视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV13X4y167VB/).     
     reference: [链接](https://github.com/Res2Net/Res2Net-PretrainedModels)  
     paper: [链接](https://arxiv.org/pdf/1904.01169.pdf)  
+- **yolov7-odconv**  
+    添加Omni-Dimensional Dynamic Convolution到yolov7中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1vh411j71Z/).     
+    reference: [链接](https://github.com/OSVAI/ODConv)  
+- **yolov5-backbone/FocalNet**  
+    添加(2022年)FocalNet(transformer)主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1ch411L7Dk/).   
+    reference: [链接](https://github.com/microsoft/FocalNet)  
+    paper: [链接](https://arxiv.org/abs/2203.11926)  
+- **yolov5-backbone/EMO**  
+    添加(2023年)EMO(transformer)主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1ch411L7Dk/).   
+    reference: [链接](https://github.com/zhangzjn/EMO)  
+    paper: [链接](https://arxiv.org/pdf/2301.01146.pdf)  
