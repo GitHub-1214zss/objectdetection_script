@@ -170,7 +170,7 @@
     视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV12v4y1H7E1/).   
     reference: [链接](https://github.com/sail-sg/inceptionnext)  
     paper: [链接](https://arxiv.org/pdf/2303.16900.pdf)  
-- **yolov5-aLRPLoss**
+- **yolov5-aLRPLoss**  
     添加aLRPLoss到yolov5中.  
     视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1YV4y1Z7rV/).     
     reference: [链接](https://github.com/kemaloksuz/aLRPLoss)  
@@ -191,6 +191,27 @@
     paper: [链接](https://arxiv.org/abs/2203.11926)  
 - **yolov5-backbone/EMO**  
     添加(2023年)EMO(transformer)主干到yolov5中.  
-    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1ch411L7Dk/).   
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Dh4y1J7SV/).   
     reference: [链接](https://github.com/zhangzjn/EMO)  
     paper: [链接](https://arxiv.org/pdf/2301.01146.pdf)  
+- **yolov5-backbone/EfficientFormerV2**  
+    添加(2022年)EfficientFormerV2(transformer)主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1da4y1g7KT/).   
+    reference: [链接](https://github.com/snap-research/EfficientFormer)  
+    paper: [链接](https://arxiv.org/pdf/2212.08059.pdf)  
+    weight_download: [百度网盘链接](https://pan.baidu.com/s/1I0Ygc3-6fNf2LdIJe290kw?pwd=yvc8)
+- **yolov5-backbone/PoolFormer**  
+    添加(2022年CVPR)PoolFormer(transformer)主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1eh411c7bz/).   
+    reference: [链接](https://github.com/sail-sg/poolformer)  
+    paper: [链接](https://arxiv.org/abs/2111.11418)  
+- **yolov5-backbone/EfficientViT**  
+    添加(2023年)EfficientViT(transformer)主干到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1xk4y1L7Gu/).   
+    reference: [链接](https://github.com/mit-han-lab/efficientvit)  
+    paper: [链接](https://arxiv.org/abs/2205.14756)  
+    weight_download: [百度网盘链接](https://pan.baidu.com/s/1dvwuQQBnRCr7aGReY8IEVw?pwd=74ad)
+- **yolov5-ContextAggregation**  
+    添加ContextAggregation到yolov5中.  
+    视频教学地址：[哔哩哔哩](https://www.bilibili.com/video/BV1vh411j71Z/).     
+    reference: [链接](https://github.com/yeliudev/CATNet)  
